@@ -28,7 +28,7 @@ $ mkdir bar
 mkdirはMaKe DIRectoryの略でディレクトリを作成します。-pオプションで深い階層を持つディレクトリも一気に作れるのが便利です。
 
 ```bash
-$ mkdir -p foo/bar/buz
+$ mkdir -p bar/buz/qux
 ```
 
 <a href="http://www.flickr.com/photos/komagata/5277162694/" title="ターミナル — bash — 80×24 by komagata, on Flickr"><img src="http://farm6.static.flickr.com/5203/5277162694_308eae9af9.jpg" width="500" height="313" alt="ターミナル — bash — 80×24" /></a>
